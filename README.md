@@ -1,2 +1,3 @@
 # rss2hugo
-A simple RSS feed to hugo conversion tool
+
+A simple RSS feed to hugo conversion tool.
