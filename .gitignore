@@ -1,0 +1,4 @@
+/build/
+/dist/
+/venv/
+/src/rss2hugo.egg-info/
